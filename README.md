@@ -5,13 +5,13 @@ traffic lights, to propose a minimal hardware solution
 (as a component name).
 
 
-![Screenshot (1)](https://github.com/tamaraatanasova/8085-Zadaca3/blob/main/i1.png)
+![Screenshot (1)](https://github.com/ilievatijana/8085-exercise3/blob/main/i1.png)
 
 Exercise of Low Level Programming with 8085 Assembly Lecture
 
 
 
-[Tamara Atanasova ](https://github.com/tamaraatanasova)
+[Tijana Ilieva ](https://github.com/ilievatijana)
 
 
 
